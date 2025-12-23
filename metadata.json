@@ -1,0 +1,5 @@
+{
+  "name": "ResumeAI Intelligence Dashboard",
+  "description": "A high-performance data science platform for HR analytics, featuring real-time candidate assessment, predictive modeling using Gemini 3, and interactive data visualizations.",
+  "requestFramePermissions": []
+}
